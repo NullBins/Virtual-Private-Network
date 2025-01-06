@@ -19,7 +19,7 @@ commands = [
   'network 10.1.20.1 0.0.0.0 area 0',
   'network 192.168.1.254 0.0.0.0 area 0',
   'end',
-  'wr'
+  'write'
 ]
 
 net_connect = netmiko.ConnectHandler(**Cisco_Router)

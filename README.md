@@ -2,7 +2,7 @@
   <h1>[ 🔐가상사설망🛡Virtual Private Network ]</h1>
 </div>
 
-###### Repository for records of how to setup VPN [ *Written by NullBins* ]
+###### 📚 Repository for records of how to setup VPN [ *Written by NullBins* ]
 
 ## ❓❓❓EASY❓❓❓ VPN for Cisco Router
 #### { 🌐 (LAN: 192.168.1.0/24) [R1/L2TP-VPN-Server] (.1) <- (1.1.12.0/30) -> (.2) [R2] (.2) <- (1.1.23.0) -> (.1) [R3/NAT] (LAN: 172.16.1.0/24) [PC1/DHCP] 🌐 }
